@@ -33,7 +33,6 @@ _**Heaven’s Light is Our Guide**_
 ## Submitted by:
 
 ### **Oleen Deb Das**
-### [CODEFORCES](https://codeforces.com/profile/Oleen_Deb_Das)
 #### Roll No: 2410028
 #### Registration No: 1081
 #### Department of Electrical and Computer Engineering
@@ -47,8 +46,8 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Lab No. | Title | Link | CODEFORCE | 
-| :---: | :---: | :---: | :---: |
+| Lab No. | Title | Link |
+| :---: | :---: | :---: |
 
 </div>
 
