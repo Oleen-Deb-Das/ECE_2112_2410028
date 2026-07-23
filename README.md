@@ -1,1 +1,55 @@
-# ECE_2112_2410028
+## ECE-1204_2410028_Lab Reports
+<div align="center">
+  
+_**Heaven’s Light is Our Guide**_
+</div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18531be8-2a84-4bea-9027-5f1c40549dfa" alt="RUET Logo" style="width:150px;height:170px;">
+</p>
+
+<div align="center">
+  
+  ## **Rajshahi University of Engineering and Technology** <br> 
+  ### **Department of Electrical & Computer Engineering**
+  ### **Lab Reports**<br>
+  **Course Name:** Digital Techniques sessional<br>
+  **Course Code:** ECE 2112
+</div>
+<br>
+<div align="center">
+
+---  
+##  Submitted to: 
+
+### **MST. MAZEDA NOOR TASNIM**
+#### Lecturer
+#### Department of Electrical and Computer Engineering
+#### Rajshahi University of Engineering and Technology
+#### Rajshahi - 6204
+
+---
+
+## Submitted by:
+
+### **Oleen Deb Das**
+### [CODEFORCES](https://codeforces.com/profile/Oleen_Deb_Das)
+#### Roll No: 2410028
+#### Registration No: 1081
+#### Department of Electrical and Computer Engineering
+#### Rajshahi University of Engineering and Technology
+#### Rajshahi - 6204
+
+---
+</div>
+<div align="center"> 
+
+  
+## INDEX:
+
+| Lab No. | Title | Link | CODEFORCE | 
+| :---: | :---: | :---: | :---: |
+
+</div>
+
+
