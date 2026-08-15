@@ -50,6 +50,7 @@ _**Heaven’s Light is Our Guide**_
 | :---: | :---: | :---: |
 | 00 | Instalation proof of Logisim Evolution | [Lab 01](https://github.com/Oleen-Deb-Das/ECE_2112_2410028/blob/main/LAB00.md)|
 | 01 | 8 Tasks from Lab 1 | [Lab 01](https://github.com/Oleen-Deb-Das/ECE_2112_2410028/blob/main/DT%20Lab%20-01.pdf)|
+| 02 | Simplification of Boolean Expressions Using Boolean Algebra and Karnaugh Map, and Verification Using Logic Circuit Simulation | [Lab 02](https://github.com/Oleen-Deb-Das/ECE_2112_2410028/blob/main/LAB02.md)|
 
 </div>
 
